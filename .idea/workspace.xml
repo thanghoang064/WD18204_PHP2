@@ -20,9 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f9cd02f2-c7ce-4a43-9dd9-07c289223c09" name="Default Changelist" comment="update project">
-      <change afterPath="$PROJECT_DIR$/bai2_mvc/controllers/ProductController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bai2_mvc/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bai2_mvc/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/bai2_mvc/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +61,7 @@
       <updated>1694413295665</updated>
       <workItem from="1694413296742" duration="2173000" />
       <workItem from="1694755519721" duration="5369000" />
-      <workItem from="1695014446448" duration="3842000" />
+      <workItem from="1695014446448" duration="4593000" />
     </task>
     <task id="LOCAL-00001" summary="update project">
       <created>1695016643860</created>
@@ -72,7 +70,14 @@
       <option name="project" value="LOCAL" />
       <updated>1695016643860</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="update project">
+      <created>1695019036020</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1695019036020</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -98,9 +103,9 @@
       <screen x="0" y="0" width="1024" height="768" />
     </state>
     <state x="334" y="311" key="NewPhpFileDialog/0.0.1024.768@0.0.1024.768" timestamp="1695018371692" />
-    <state x="112" y="108" key="Vcs.Push.Dialog.v2" timestamp="1695016647215">
+    <state x="112" y="108" key="Vcs.Push.Dialog.v2" timestamp="1695019037476">
       <screen x="0" y="0" width="1024" height="768" />
     </state>
-    <state x="112" y="108" key="Vcs.Push.Dialog.v2/0.0.1024.768@0.0.1024.768" timestamp="1695016647215" />
+    <state x="112" y="108" key="Vcs.Push.Dialog.v2/0.0.1024.768@0.0.1024.768" timestamp="1695019037476" />
   </component>
 </project>
