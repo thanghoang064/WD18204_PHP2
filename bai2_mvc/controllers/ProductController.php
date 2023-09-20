@@ -18,3 +18,4 @@ function editProduct() {
 // id,ten_kh,tuoi
 // xây dựng  các chức năng thêm,sửa,xóa,hiển thị khách hàng
 //yêu cầu sử dụng đúng mô hình thầy cung cấp
+// lấy luôn 4 đầu điểm lab 1 + 2 + 3 + 4

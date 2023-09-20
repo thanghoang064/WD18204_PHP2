@@ -5,3 +5,7 @@ function getProduct() {
     $sql = "SELECT * FROM product";
     return getData($sql);
 }
+function addProduct($id,$tensp,$gia) {
+    $sql = "INSERT INTO $id";//
+    return getData($sql,false);
+}
