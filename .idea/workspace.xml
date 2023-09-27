@@ -20,8 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f9cd02f2-c7ce-4a43-9dd9-07c289223c09" name="Default Changelist" comment="update project">
-      <change afterPath="$PROJECT_DIR$/bai3_oop/NguoiLon.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bai3_oop/bailab.php" beforeDir="false" afterPath="$PROJECT_DIR$/bai3_oop/bailab.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +74,8 @@
       <workItem from="1695362597562" duration="45000" />
       <workItem from="1695362647014" duration="15000" />
       <workItem from="1695362704562" duration="2772000" />
-      <workItem from="1695516209299" duration="5808000" />
+      <workItem from="1695516209299" duration="6439000" />
+      <workItem from="1695792380869" duration="2553000" />
     </task>
     <task id="LOCAL-00001" summary="update project">
       <created>1695016643860</created>
@@ -125,7 +126,14 @@
       <option name="project" value="LOCAL" />
       <updated>1695518735697</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="update project">
+      <created>1695624620903</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1695624620903</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -148,16 +156,16 @@
     <option name="LAST_COMMIT_MESSAGE" value="update project" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="334" y="311" key="NewPhpFileDialog" timestamp="1695621227530">
+    <state x="334" y="311" key="NewPhpFileDialog" timestamp="1695624607154">
       <screen x="0" y="0" width="1024" height="768" />
     </state>
-    <state x="334" y="311" key="NewPhpFileDialog/0.0.1024.768@0.0.1024.768" timestamp="1695621227530" />
+    <state x="334" y="311" key="NewPhpFileDialog/0.0.1024.768@0.0.1024.768" timestamp="1695624607153" />
     <state x="470" y="364" key="NewPhpFileDialog/0.0.1440.900@0.0.1440.900" timestamp="1695518349294" />
     <state x="334" y="310" key="NewPhpFileDialog/0.25.1024.703@0.25.1024.703" timestamp="1695190563093" />
-    <state x="158" y="127" key="Vcs.Push.Dialog.v2" timestamp="1695518737195">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state x="112" y="108" key="Vcs.Push.Dialog.v2" timestamp="1695624622560">
+      <screen x="0" y="0" width="1024" height="768" />
     </state>
-    <state x="112" y="108" key="Vcs.Push.Dialog.v2/0.0.1024.768@0.0.1024.768" timestamp="1695365149402" />
+    <state x="112" y="108" key="Vcs.Push.Dialog.v2/0.0.1024.768@0.0.1024.768" timestamp="1695624622560" />
     <state x="158" y="127" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1695518737195" />
     <state x="112" y="124" key="Vcs.Push.Dialog.v2/0.25.1024.703@0.25.1024.703" timestamp="1695191320641" />
   </component>
