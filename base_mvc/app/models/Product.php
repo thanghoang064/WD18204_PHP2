@@ -1,11 +1,10 @@
 <?php
 namespace App\Models;
+
 class Product extends BaseModel {
     protected $table = "product";
     //tạo ra thuộc tính table gán tên bảng trên CSDL vào
-    public function __construct() {
 
-    }
     // xây dựng hàm lấy danh sách sản phẩm
     public function getProduct() {
         $sql = "select * from $this->table";

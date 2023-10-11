@@ -10,6 +10,8 @@ class BaseModel
 
     public function __construct()
     {
+
+
         //set connect
         $this->pdo =  new PDO("mysql:host=" . DBHOST
             . ";dbname=" . DBNAME
@@ -17,6 +19,7 @@ class BaseModel
             DBUSER,
             DBPASS
         );
+
     }
 // neu ko truyen gi thi se dung cho cau lenh select
 // neu truyen false thi danh cho cau lenh them sua
@@ -28,6 +31,7 @@ class BaseModel
     //Function execute the query
     // hàm này sẽ làm hàm chạy câu truy vấn
     public function execute($options=array()) {
+
         $this->sta = $this->pdo->prepare($this->sql);
         if($options) {  //If have $options then system will be tranmission parameters
             for($i=0;$i<count($options);$i++) {

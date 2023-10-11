@@ -20,25 +20,42 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f9cd02f2-c7ce-4a43-9dd9-07c289223c09" name="Default Changelist" comment="update project">
-      <change afterPath="$PROJECT_DIR$/base_mvc/app/controllers/CustomerController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/base_mvc/app/controllers/ProductController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/base_mvc/app/models/Customer.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/base_mvc/app/models/Product.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/base_mvc/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_mvc/app/controllers/BaseController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_mvc/app/views/layout/main.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_mvc/app/views/layout/style.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_mvc/app/views/product/index.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_mvc/public/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/WD18204_PHP2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/WD18204_PHP2.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bai4_nsp/nsp.php" beforeDir="false" afterPath="$PROJECT_DIR$/bai4_nsp/nsp.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bai4_nsp/nsp1.php" beforeDir="false" afterPath="$PROJECT_DIR$/bai4_nsp/nsp1.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base_mvc/app/controllers/ProductController.php" beforeDir="false" afterPath="$PROJECT_DIR$/base_mvc/app/controllers/ProductController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base_mvc/app/models/BaseModel.php" beforeDir="false" afterPath="$PROJECT_DIR$/base_mvc/app/models/BaseModel.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base_mvc/app/models/Product.php" beforeDir="false" afterPath="$PROJECT_DIR$/base_mvc/app/models/Product.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base_mvc/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/base_mvc/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base_mvc/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/base_mvc/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base_mvc/vendor/composer/autoload_psr4.php" beforeDir="false" afterPath="$PROJECT_DIR$/base_mvc/vendor/composer/autoload_psr4.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base_mvc/vendor/composer/autoload_static.php" beforeDir="false" afterPath="$PROJECT_DIR$/base_mvc/vendor/composer/autoload_static.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base_mvc/vendor/composer/installed.json" beforeDir="false" afterPath="$PROJECT_DIR$/base_mvc/vendor/composer/installed.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base_mvc/vendor/composer/installed.php" beforeDir="false" afterPath="$PROJECT_DIR$/base_mvc/vendor/composer/installed.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base_mvc/vendor/composer/platform_check.php" beforeDir="false" afterPath="$PROJECT_DIR$/base_mvc/vendor/composer/platform_check.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/base_mvc/composer.json</pharConfigPath>
     <execution />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/base_mvc/vendor/composer" />
+      <path value="$PROJECT_DIR$/base_mvc/vendor/phroute/phroute" />
+      <path value="$PROJECT_DIR$/base_mvc/vendor/eftec/bladeone" />
+    </include_path>
   </component>
   <component name="ProjectId" id="2VEtvEwkyc0kBpmJGe3xdQAL6AL" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -49,7 +66,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/bai2_mvc/models" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/base_mvc/app/views/layout" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -60,11 +77,15 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/base_mvc/app/views/layout" />
+      <recent name="$PROJECT_DIR$/base_mvc/public" />
+      <recent name="$PROJECT_DIR$/base_mvc/app/controllers" />
+      <recent name="$PROJECT_DIR$/base_mvc/app/models" />
+      <recent name="$PROJECT_DIR$/base_mvc/common" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/base_mvc/app" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/bai2_mvc/models" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -88,7 +109,10 @@
       <workItem from="1696398952769" duration="3138000" />
       <workItem from="1696404799792" duration="19000" />
       <workItem from="1696404829447" duration="23000" />
-      <workItem from="1696570940469" duration="4071000" />
+      <workItem from="1696570940469" duration="4739000" />
+      <workItem from="1696829596859" duration="1034000" />
+      <workItem from="1696830901077" duration="3292000" />
+      <workItem from="1697001988823" duration="4901000" />
     </task>
     <task id="LOCAL-00001" summary="update project">
       <created>1695016643860</created>
@@ -167,7 +191,14 @@
       <option name="project" value="LOCAL" />
       <updated>1696401867610</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="update project">
+      <created>1696577199230</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1696577199230</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -190,17 +221,31 @@
     <option name="LAST_COMMIT_MESSAGE" value="update project" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="334" y="311" key="NewPhpFileDialog" timestamp="1696572202852">
-      <screen x="0" y="0" width="1024" height="768" />
+    <state x="334" y="308" key="NewPhpFileDialog" timestamp="1697006553310">
+      <screen x="0" y="25" width="1024" height="700" />
     </state>
     <state x="334" y="311" key="NewPhpFileDialog/0.0.1024.768@0.0.1024.768" timestamp="1696572202852" />
     <state x="470" y="364" key="NewPhpFileDialog/0.0.1440.900@0.0.1440.900" timestamp="1695518349294" />
+    <state x="334" y="308" key="NewPhpFileDialog/0.25.1024.700@0.25.1024.700" timestamp="1697006553310" />
+    <state x="334" y="309" key="NewPhpFileDialog/0.25.1024.701@0.25.1024.701" timestamp="1696832321167" />
+    <state x="334" y="309" key="NewPhpFileDialog/0.25.1024.702@0.25.1024.702" timestamp="1697004864830" />
     <state x="334" y="310" key="NewPhpFileDialog/0.25.1024.703@0.25.1024.703" timestamp="1695190563093" />
-    <state x="112" y="108" key="Vcs.Push.Dialog.v2" timestamp="1696401869635">
+    <state x="112" y="108" key="Vcs.Push.Dialog.v2" timestamp="1696577201046">
       <screen x="0" y="0" width="1024" height="768" />
     </state>
-    <state x="112" y="108" key="Vcs.Push.Dialog.v2/0.0.1024.768@0.0.1024.768" timestamp="1696401869635" />
+    <state x="112" y="108" key="Vcs.Push.Dialog.v2/0.0.1024.768@0.0.1024.768" timestamp="1696577201046" />
     <state x="158" y="127" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1695518737195" />
     <state x="112" y="124" key="Vcs.Push.Dialog.v2/0.25.1024.703@0.25.1024.703" timestamp="1695191320641" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/base_mvc/app/views/product/index.blade.php</url>
+          <line>7</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
