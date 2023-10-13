@@ -3,6 +3,7 @@
 //include_once "app/models/Customer.php";
 //include_once "app/controllers/ProductController.php";
 //include_once "app/controllers/CustomerController.php";
+session_start();
 require_once "env.php";
 require_once "vendor/autoload.php";
 require_once "common/route.php";

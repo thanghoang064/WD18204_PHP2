@@ -20,23 +20,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f9cd02f2-c7ce-4a43-9dd9-07c289223c09" name="Default Changelist" comment="update project">
-      <change afterPath="$PROJECT_DIR$/base_mvc/app/controllers/BaseController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/base_mvc/app/views/layout/main.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/base_mvc/app/views/layout/style.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/base_mvc/app/views/product/index.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/base_mvc/public/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/WD18204_PHP2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/WD18204_PHP2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_mvc/app/views/product/add.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/base_mvc/app/controllers/ProductController.php" beforeDir="false" afterPath="$PROJECT_DIR$/base_mvc/app/controllers/ProductController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_mvc/app/models/BaseModel.php" beforeDir="false" afterPath="$PROJECT_DIR$/base_mvc/app/models/BaseModel.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_mvc/app/models/Product.php" beforeDir="false" afterPath="$PROJECT_DIR$/base_mvc/app/models/Product.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_mvc/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/base_mvc/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_mvc/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/base_mvc/composer.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_mvc/vendor/composer/autoload_psr4.php" beforeDir="false" afterPath="$PROJECT_DIR$/base_mvc/vendor/composer/autoload_psr4.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_mvc/vendor/composer/autoload_static.php" beforeDir="false" afterPath="$PROJECT_DIR$/base_mvc/vendor/composer/autoload_static.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_mvc/vendor/composer/installed.json" beforeDir="false" afterPath="$PROJECT_DIR$/base_mvc/vendor/composer/installed.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_mvc/vendor/composer/installed.php" beforeDir="false" afterPath="$PROJECT_DIR$/base_mvc/vendor/composer/installed.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_mvc/vendor/composer/platform_check.php" beforeDir="false" afterPath="$PROJECT_DIR$/base_mvc/vendor/composer/platform_check.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base_mvc/common/route.php" beforeDir="false" afterPath="$PROJECT_DIR$/base_mvc/common/route.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base_mvc/env.php" beforeDir="false" afterPath="$PROJECT_DIR$/base_mvc/env.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base_mvc/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/base_mvc/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,7 +101,8 @@
       <workItem from="1696570940469" duration="4739000" />
       <workItem from="1696829596859" duration="1034000" />
       <workItem from="1696830901077" duration="3292000" />
-      <workItem from="1697001988823" duration="4901000" />
+      <workItem from="1697001988823" duration="5291000" />
+      <workItem from="1697182523135" duration="4779000" />
     </task>
     <task id="LOCAL-00001" summary="update project">
       <created>1695016643860</created>
@@ -198,7 +188,14 @@
       <option name="project" value="LOCAL" />
       <updated>1696577199230</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="update project">
+      <created>1697007356865</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1697007356866</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -221,20 +218,22 @@
     <option name="LAST_COMMIT_MESSAGE" value="update project" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="334" y="308" key="NewPhpFileDialog" timestamp="1697006553310">
-      <screen x="0" y="25" width="1024" height="700" />
+    <state x="334" y="307" key="NewPhpFileDialog" timestamp="1697182644593">
+      <screen x="0" y="25" width="1024" height="697" />
     </state>
     <state x="334" y="311" key="NewPhpFileDialog/0.0.1024.768@0.0.1024.768" timestamp="1696572202852" />
     <state x="470" y="364" key="NewPhpFileDialog/0.0.1440.900@0.0.1440.900" timestamp="1695518349294" />
+    <state x="334" y="307" key="NewPhpFileDialog/0.25.1024.697@0.25.1024.697" timestamp="1697182644593" />
     <state x="334" y="308" key="NewPhpFileDialog/0.25.1024.700@0.25.1024.700" timestamp="1697006553310" />
     <state x="334" y="309" key="NewPhpFileDialog/0.25.1024.701@0.25.1024.701" timestamp="1696832321167" />
     <state x="334" y="309" key="NewPhpFileDialog/0.25.1024.702@0.25.1024.702" timestamp="1697004864830" />
     <state x="334" y="310" key="NewPhpFileDialog/0.25.1024.703@0.25.1024.703" timestamp="1695190563093" />
-    <state x="112" y="108" key="Vcs.Push.Dialog.v2" timestamp="1696577201046">
-      <screen x="0" y="0" width="1024" height="768" />
+    <state x="112" y="124" key="Vcs.Push.Dialog.v2" timestamp="1697007358657">
+      <screen x="0" y="25" width="1024" height="701" />
     </state>
     <state x="112" y="108" key="Vcs.Push.Dialog.v2/0.0.1024.768@0.0.1024.768" timestamp="1696577201046" />
     <state x="158" y="127" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1695518737195" />
+    <state x="112" y="124" key="Vcs.Push.Dialog.v2/0.25.1024.701@0.25.1024.701" timestamp="1697007358657" />
     <state x="112" y="124" key="Vcs.Push.Dialog.v2/0.25.1024.703@0.25.1024.703" timestamp="1695191320641" />
   </component>
   <component name="XDebuggerManager">
